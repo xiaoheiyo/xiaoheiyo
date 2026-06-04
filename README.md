@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoheiyo&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=xiaoheiyo&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
 </div>
 
 ---
