@@ -1,6 +1,6 @@
-# Hi 👋, I'm xiaoheiyo
-
-Welcome to my GitHub Profile! Code · Create · Innovate
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+xiaoheiyo;Welcome+to+my+GitHub+Profile!;Code+%C2%B7+Create+%C2%B7+Innovate" alt="Typing SVG" />
+</div>
 
 ---
 
