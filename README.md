@@ -1,17 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+xiaoheiyo;Welcome+to+my+GitHub+Profile!;Code+%C2%B7+Create+%C2%B7+Innovate" alt="Typing SVG" />
-</div>
+# Hi 👋, I'm xiaoheiyo
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiaoheiyo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoheiyo&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=xiaoheiyo&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
-</div>
+Welcome to my GitHub Profile! Code · Create · Innovate
 
 ---
 
